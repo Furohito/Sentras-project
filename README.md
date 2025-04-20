@@ -79,8 +79,8 @@ Repositori ini terintegrasi dengan **GitHub Projects (Kanban)** untuk mengelola:
 ## 📄 Dokumentasi Terkait
 
 - **[Laporan Proyek PDF](./dokumentasi/UTS-sentras-swe-2025.pdf)**  
-- **[Use Case Diagram](./dokumentasi/use%20case%20diagram%20lom%20jadi%20(2).jpg)**  
-- **[BPMN Diagram](./dokumentasi/BPMN%20diagram%20upjwithyou.jpg)**  
+- **[Use Case Diagram](./dokumentasi/use%20case%20diagram.jpg)**
+- **[BPMN Diagram](./dokumentasi/BPMN%20diagram.jpg)**  
 - **[Instagram UPJWithYou](https://www.instagram.com/upjwithyou/)** – sumber inspirasi komunitas
 
 ---
